@@ -2,11 +2,11 @@
 ![dockerfile](screenshots/code.png)
 
 # Building image
-![buildimage](screenshots/build.jpg)
+![buildimage](screenshots/build.JPG)
 
 # Run image
-![runimage](screenshots/run.jpg)
+![runimage](screenshots/run.JPG)
 spuštění image na portu 80
 
 # stránka
-![page](screenshots/page.jpg)
+![page](screenshots/page.JPG)
